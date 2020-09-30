@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "U57ZUNHQE5.com.ikawacoffee.ikawapp",
+            "paths": ["/share.ikawa.support/profile/*"]
+        }]
+    }
+}
